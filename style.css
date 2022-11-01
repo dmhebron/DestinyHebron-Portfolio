@@ -31,6 +31,13 @@ body{
     float: right;
 }
 
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    background-color: #C52184;
+}
+
 @media screen and (max-width: 430px) {
     *{
         background-color: #E574BC;
